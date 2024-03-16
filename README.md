@@ -6,4 +6,5 @@ For ArteveldeHS
 
 ## Getting Started
 
-To run this demo, simply open the `index.html` file in your web browser.
+- To run this demo, simply open the `index.html` file in your web browser.
+- Webcam can take a couple of seconds to start, so be patient. 
