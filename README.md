@@ -8,4 +8,4 @@ For ArteveldeHS
 
 - To run this demo, simply open the `index.html` file in your web browser.
 - Webcam can take a couple of seconds to start, so be patient. 
-- This model can only see if it my or Nicky
+- This model can only see of an image is me (Jef) or Nicky 
